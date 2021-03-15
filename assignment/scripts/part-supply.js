@@ -39,7 +39,7 @@ for (let i = 0; i < supplyChanges.length; i++)
   }
   else if (supplyChanges[i] < 0)
   {
-    console.log('Part Count ', supplyChanges[i]);
+    console.log('Part Count', supplyChanges[i]);
   }
 }
 
@@ -56,7 +56,7 @@ for (change of supplyChanges)
   }
   else if (change < 0)
   {
-    console.log('Part Count ', change)
+    console.log('Part Count', change)
   }
 }
 
@@ -71,7 +71,7 @@ while (i < supplyChanges.length)
   }
   else if (supplyChanges[i] < 0)
   {
-    console.log('Part Count ', supplyChanges[i]);
+    console.log('Part Count', supplyChanges[i]);
   }
   i++;
 }
